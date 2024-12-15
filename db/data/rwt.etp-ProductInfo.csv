@@ -1,0 +1,196 @@
+ProductCode,Product,Unit,Packaging_Qty,Cost_Price,Selling_Price,Available_Qty
+CF 13,CF 13 Style Color Fresh,Ltr,1.0,119.18,111.1,1
+CF 13,CF 13 Style Color Fresh,Ltr,10.0,1049.02,977.9,1
+CF 13,CF 13 Style Color Fresh,Ltr,20.0,2013.08,1876.6,1
+CF 13,CF 13 Style Color Fresh,Ltr,4.0,447.22,416.9,1
+CF 99,CF 99 Style Color Fresh,Ltr,1.0,113.28,105.6,1
+CF 5,CF 5 Style Color Fresh,Ltr,1.0,148.68,138.6,1
+CF 5,CF 5 Style Color Fresh,Ltr,4.0,559.32,521.4,1
+CS White,CS White Style Color Smart,Ltr,1.0,162.84,151.8,1
+CS White,CS White Style Color Smart,Ltr,10.0,1445.5,1347.5,1
+CS White,CS White Style Color Smart,Ltr,20.0,2777.72,2589.4,1
+CS White,CS White Style Color Smart,Ltr,4.0,614.78,573.1,1
+CS 1,CS 1 Style Color Smart,Ltr,1.0,162.84,151.8,1
+CS 1,CS 1 Style Color Smart,Ltr,10.0,1445.5,1347.5,1
+CS 1,CS 1 Style Color Smart,Ltr,20.0,2777.72,2589.4,1
+CS 1,CS 1 Style Color Smart,Ltr,4.0,614.78,573.1,1
+CS 2,CS 2 Style Color Smart,Ltr,1.0,162.84,151.8,1
+CS 2,CS 2 Style Color Smart,Ltr,10.0,1445.5,1347.5,1
+CS 2,CS 2 Style Color Smart,Ltr,20.0,2777.72,2589.4,1
+CS 2,CS 2 Style Color Smart,Ltr,4.0,614.78,573.1,1
+CS 99,CS 99 Style Color Smart,Ltr,1.0,153.4,143.0,1
+CS 6,CS 6 Style Color Smart,Ltr,1.0,200.6,187.0,1
+CS 6,CS 6 Style Color Smart,Ltr,4.0,768.18,716.1,1
+CSS White,CSS White Style Color Smart Shine,Ltr,1.0,201.78,188.1,1
+CSS White,CSS White Style Color Smart Shine,Ltr,4.0,809.48,754.6,1
+CSS White,CSS White Style Color Smart Shine,Ltr,10.0,1820.6,1696.2,1
+CSS White,CSS White Style Color Smart Shine,Ltr,20.0,3488.08,3251.6,1
+CSS 1,CSS 1 Style Color Smart Shine,Ltr,1.0,201.78,188.1,1
+CSS 1,CSS 1 Style Color Smart Shine,Ltr,4.0,809.48,754.6,1
+CSS 1,CSS 1 Style Color Smart Shine,Ltr,10.0,1820.6,1696.2,1
+CSS 1,CSS 1 Style Color Smart Shine,Ltr,20.0,3488.08,3251.6,1
+CSS 2,CSS 2 Style Color Smart Shine,Ltr,1.0,188.8,176.0,1
+CSS 99,CSS 99 Style Color Smart Shine,Ltr,1.0,179.36,167.2,1
+CSS 99,CSS 99 Style Color Smart Shine,Ltr,4.0,678.5,632.5,1
+PFP,PFP WH Style Pro Fresh Primer,Ltr,1.0,126.26,117.7,1
+PFP,PFP WH Style Pro Fresh Primer,Ltr,4.0,484.98,452.1,1
+PHP,PHP Pro Hide Primer,Ltr,10.0,1073.8,1001.0,1
+PHP,PHP Pro Hide Primer,Ltr,20.0,2066.18,1926.1,1
+PHP,PHP Pro Hide Primer,Ltr,1.0,96.76,90.2,1
+PHP,PHP Pro Hide Primer,Ltr,4.0,344.56,321.2,1
+PHX,ST Cement Primer,Ltr,1.0,185.26,203.39,1
+PF 13,PF 13 Style Power Fit,Ltr,1.0,151.04,140.8,1
+PF 13,PF 13 Style Power Fit,Ltr,4.0,572.3,533.5,1
+PF 13,PF 13 Style Power Fit,Ltr,10.0,1345.2,1254.0,1
+PF 13,PF 13 Style Power Fit,Ltr,20.0,2421.36,2257.2,1
+PB 1,PB 1 Style Power Bright,Ltr,1.0,191.16,178.2,1
+PB 1,PB 1 Style Power Bright,Ltr,4.0,729.24,679.8,1
+PB 1,PB 1 Style Power Bright,Ltr,10.0,1749.94,1631.3,1
+PB 1,PB 1 Style Power Bright,Ltr,20.0,3328.78,3103.1,1
+PB 2,PB 2 Style Power Bright,Ltr,1.0,184.08,171.6,1
+PB 2,PB 2 Style Power Bright,Ltr,4.0,708.0,660.0,1
+PB 99,PB 99 Style Power,Ltr,1.0,174.64,162.8,1
+PB White,PB White Style Power,Ltr,1.0,191.16,178.2,1
+PB White,PB White Style Power,Ltr,10.0,1749.94,1631.3,1
+PB White,PB White Style Power,Ltr,20.0,3328.78,3103.1,1
+PB 99,PB 99 Style Power Bright,Ltr,4.0,667.88,622.6,1
+PBS White,PBS White Style Power Bright Shine,Ltr,1.0,208.86,194.7,1
+PBS White,PBS White Style Power Bright Shine,Ltr,4.0,800.04,745.8,1
+PBS White,PBS White Style Power Bright Shine,Ltr,10.0,1929.3,1798.5,1
+PBS White,PBS White Style Power Bright Shine,Ltr,20.0,3687.5,3437.5,1
+PBS 1,PBS 1 Style Power Bright Shine,Ltr,1.0,208.86,194.7,1
+PBS 1,PBS 1 Style Power Bright Shine,Ltr,4.0,842.52,785.4,1
+PBS 1,PBS 1 Style Power Bright Shine,Ltr,10.0,1929.3,1798.5,1
+PBS 1,PBS 1 Style Power Bright Shine,Ltr,20.0,3687.5,3437.5,1
+PBS 2,PBS 2 Style Power Bright Shine,Ltr,1.0,201.78,188.1,1
+PBS 2,PBS 2 Style Power Bright Shine,Ltr,4.0,809.48,754.6,1
+PBS 2,PBS 2 Style Power Bright Shine,Ltr,10.0,1851.42,1725.9,1
+PBS 2,PBS 2 Style Power Bright Shine,Ltr,20.0,3530.56,3291.2,1
+NS White,NS White Calista Neo Star,Ltr,1.0,309.16,288.2,1
+NS White,NS White Calista Neo Star,Ltr,4.0,1208.32,1126.4,1
+NS White,NS White Calista Neo Star,Ltr,20.0,5527.12,5152.4,1
+NS 1,NS 1 Calista Neo Star,Ltr,1.0,309.16,288.2,1
+NS 1,NS 1 Calista Neo Star,Ltr,4.0,1190.62,1109.9,1
+NS 1,NS 1 Calista Neo Star,Ltr,10.0,2867.4,2673.0,1
+NS 1,NS 1 Calista Neo Star,Ltr,20.0,5527.12,5152.4,1
+NS 2,NS 2 Calista Neo Star,Ltr,1.0,309.16,288.2,1
+NS 2,NS 2 Calista Neo Star,Ltr,4.0,1190.62,1109.9,1
+NS 4,NS 4 Calista Neo Star,Ltr,1.0,302.08,281.6,1
+NS 4,NS 4 Calista Neo Star,Ltr,4.0,1158.76,1080.2,1
+NS 5,NS 5 Calista Neo Star,Ltr,1.0,313.88,292.6,1
+NS 5,NS 5 Calista Neo Star,Ltr,4.0,1214.22,1131.9,1
+NS 6,NS 6 Calista Neo Star,Ltr,1.0,356.36,332.2,1
+NS 99,NS 99 Calista Neo Star,Ltr,1.0,302.08,281.6,1
+NS 99,NS 99 Calista Neo Star,Ltr,4.0,1158.76,1080.2,1
+NSS 1,NSS 1 Calista Neo Star,Ltr,1.0,310.34,289.3,1
+NSS 1,NSS 1 Calista Neo Star,Ltr,10.0,2878.02,2682.9,1
+NSS 1,NSS 1 Calista Neo Star,Ltr,20.0,5549.54,5173.3,1
+NSS 2,NSS 2 Calista Neo Star,Ltr,1.0,310.34,289.3,1
+NSS 2,NSS 2 Calista Neo Star,Ltr,4.0,1195.34,1114.3,1
+NSS 2,NSS 2 Calista Neo Star,Ltr,10.0,2878.02,2682.9,1
+NSS 2,NSS 2 Calista Neo Star,Ltr,20.0,5549.54,5173.3,1
+PSP White,PSP White Style Perfect Start,Ltr,1.0,133.34,124.3,1
+PSP White,PSP White Style Perfect Start,Ltr,4.0,518.02,482.9,1
+PSP White,PSP White Style Perfect Start,Ltr,10.0,1210.68,1128.6,1
+PSP White,PSP White Style Perfect Start,Ltr,20.0,2309.26,2152.7,1
+SBD White,SBD White Style Super DISTEMPER,Ltr,4.0,296.18,276.1,1
+SBD White,SBD White Style Super DISTEMPER,Ltr,10.0,544.8,507.1,1
+SBD White,SBD White Style Super DISTEMPER,Ltr,20.0,1008.9,940.5,1
+CMX 22 Crack Master,CMX 22 ALL dry Crack Master,Ltr,0.5,186.44,173.8,1
+WF10 Damproof,WF10 White AllDry WallnRoof,Ltr,1.0,293.82,273.9,1
+WF10 Damproof,WF10 White AllDry WallnRoof,Ltr,4.0,11142.0,1038.4,1
+WF10 Damproof,WF10 White AllDry WallnRoof,Ltr,10.0,2690.4,2508.0,1
+WF10 Damproof,WF10 White AllDry WallnRoof,Ltr,20.0,5280.5,4922.5,1
+Swp Wood Primer,Swp Wood Primer,Ltr,1.0,217.12,211.86,1
+SRP Red Oxide,SRP Red Oxd Primer,Ltr,0.5,106.2,105.9322034,1
+SRP Red Oxide,SRP Red Oxd Primer,Ltr,1.0,201.78,203.3898305,1
+CMP Red Oxide,CMP Red Oxd Primer,Ltr,0.5,77.88,76.27118644,1
+SRP Red Oxide,SRP Red Oxd Primer,Ltr,4.0,539.26,550.8474576,1
+SGE BR White,SGE BR White Calista,ML,100.0,41.3,46.61016949,1
+SGE BR White,SGE BR White Calista,ML,200.0,71.98,76.27118644,1
+SGE BR White,SGE BR White Calista,Ltr,1.0,267.86,283.8983051,1
+SGE PO Red,SGE PO Red Calista,Ltr,1.0,267.86,283.8983051,1
+SGE PO Red,SGE PO Red Calista,Ltr,0.5,141.6,152.5423729,1
+SGE Brown,SGE Brown Calista,Ltr,0.5,127.44,127.1186441,1
+SGE Brown,SGE Brown Calista,Ltr,1.0,244.26,245.7627119,1
+SGE Brown,SGE Brown Calista,Ltr,4.0,941.64,974.5762712,1
+SGE Black,SGE Black Calista,Ltr,0.5,127.44,127.1186441,1
+SGE Black,SGE Black Calista,Ltr,1.0,244.26,245.7627119,1
+SGE Black,SGE Black Calista,Ltr,4.0,941.64,974.5762712,1
+SGE S Grey,SGE S Grey Calista,Ltr,0.5,127.44,127.1186441,1
+SGE S Grey,SGE S Grey Calista,Ltr,1.0,244.26,245.7627119,1
+SGE S Grey,SGE S Grey Calista,Ltr,4.0,941.64,974.5762712,1
+SGE GL Brown,SGE GL BrownCalista,ML,100.0,38.94,42.37288136,1
+SGE GL Brown,SGE GL BrownCalista,Ltr,0.5,127.44,127.1186441,1
+SGE GL Brown,SGE GL BrownCalista,Ltr,1.0,244.26,245.7627119,1
+SGE GL Brown,SGE GL BrownCalista,Ltr,4.0,941.64,974.5762712,1
+SGE Phirozi,SGE Phirozi Calista,ML,500.0,127.44,127.1186441,1
+SGE Phirozi,SGE Phirozi Calista,Ltr,1.0,244.26,245.7627119,1
+Gold,Gold,ML,200.0,221.84,216.1016949,1
+Silver,Silver,ML,100.0,49.56,50.84745763,1
+Silver,Silver,ML,500.0,210.04,182.2033898,1
+Silver,Silver,Ltr,1.0,472.0,355.9322034,1
+Charminar,Roller,No.,1.0,95.0,127.1186441,1
+Karnal Green,Roller,No.,1.0,65.0,152.5423729,1
+Rio,Roller,No.,1.0,85.0,127.1186,1
+Karnal White,Roller,No.,1.0,55.0,127.1186,1
+Captain,Roller,No.,1.0,130.0,152.5423,1
+Captain Jumbo,Roller,No.,1.0,130.0,152.542,1
+Captain 4',Roller,No.,1.0,26.0,33.898,1
+Asian 9',Roller,No.,1.0,84.0,127.118,1
+8',Pattra/Patti,No.,1.0,18.0,16.94915254,1
+6',Pattra/Patti,No.,1.0,12.0,12.71186441,1
+4',Pattra/Patti,No.,1.0,8.0,8.474576271,1
+Scrapper,Scrapper,No.,1.0,22.0,33.89830508,1
+Gurmala,Gurumala,No.,1.0,55.0,67.79661017,1
+Palson 5',Brush,No.,1.0,120.0,127.1186441,1
+Captain Gold 5',Brush,No.,1.0,130.0,135.5932203,1
+Captain 5',Brush,No.,1.0,85.0,110.1694915,1
+Palson 3',Brush,No.,1.0,42.0,50.84745763,1
+Palson 2',Brush,No.,1.0,18.0,25.42372881,1
+Jayana B Ser,Brush,No.,1.0,100.0,127.1186441,1
+Amber B Set,Brush,No.,1.0,130.0,127.1186441,1
+Oil Tarpene,Tarpene,No.,1.0,87.67,84.74576271,1
+Oil Thinner,Thinner,No.,1.0,95.0,127.1186441,1
+Birla,Putty,KG,20.0,410.0,381.3559322,1
+Asian,Putty,KG,20.0,360.0,338.9830508,1
+JK,Putty,KG,20.0,420.0,389.8305085,1
+320,Sand paper,No.,1.0,10.95,12.71186441,1
+320,Sand paper,No.,5.0,54.75,63.55932203,1
+150,Sand paper,No.,1.0,10.95,12.71186441,1
+150,Sand paper,No.,5.0,54.75,63.55932203,1
+80,Sand paper,Mtr,1.0,10.95,12.71186441,1
+100,Sand paper,No.,1.0,12.3,12.71186441,1
+Wire Brush plastic,Wire Brush,No.,1.0,40.0,50.84745763,1
+ACE Sparc,Teracota,Ltr,1.0,200.0,220.3389831,1
+Indigo,Teracota,Ltr,1.0,240.0,237.288,1
+Apex Ming red,Teracota,Ltr,1.0,330.0,338.9830508,1
+Indigo Ming red,Teracota,Ltr,1.0,240.0,237.288,1
+Apex Sigred,Teracota,Ltr,1.0,330.0,338.9830508,1
+Apex AB15,Teracota,Ltr,1.0,330.0,338.9830508,1
+Apex AB15,Teracota,Ltr,4.0,1230.0,1211.864407,1
+Birla,White Cement,KG,1.0,26.0,33.89830508,1
+Orange,Stainer,ML,50.0,33.81,42.37288136,1
+Orange ,Stainer,ML,100.0,63.12,84.74576271,1
+Fast Yellow,Stainer,ML,50.0,36.5,42.37288136,1
+Fast Yellow,Stainer,ML,100.0,63.5,84.74576271,1
+Black,Stainer,ML,50.0,36.5,42.37288136,1
+Black,Stainer,ML,100.0,63.5,84.74576271,1
+Green,Stainer,ML,50.0,33.81,42.37288136,1
+Green,Stainer,ML,100.0,63.12,84.74576271,1
+Red,Stainer,ML,50.0,33.81,42.37288136,1
+Red,Stainer,ML,100.0,63.12,84.74576271,1
+Voilet,Stainer,ML,50.0,33.81,42.37288136,1
+Voilet,Stainer,ML,100.0,63.12,84.74576271,1
+Blue,Stainer,ML,50.0,33.81,42.37288136,1
+Blue,Stainer,ML,100.0,63.12,84.74576271,1
+Yellow Oxide,Stainer,ML,50.0,33.81,42.37288136,1
+Yellow Oxide,Stainer,ML,100.0,63.12,84.74576271,1
+Loose,Putty,KG,1.0,18.25,25.42372881,1
+Loose,Putty,KG,2.0,36.5,50.84745763,1
+Loose,Putty,KG,5.0,91.25,127.1186441,1
+JK,POP,KG,2.0,30.0,42.37288136,1
+JK Loose,POP,KG,1.0,10.0,16.94915254,1
+JK Loose,POP,KG,5.0,50.0,84.74576271,1
+MaskIng 1',MaskIng Tape,No.,1.0,16.0,21.18644068,1
+MaskIng 2',MaskIng Tape,No.,1.0,27.0,33.89830508,1

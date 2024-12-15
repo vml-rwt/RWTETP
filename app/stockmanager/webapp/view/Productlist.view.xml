@@ -1,0 +1,31 @@
+<mvc:View controllerName="stockmanager.controller.Productlist"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Table id="idTable"  items="{/Products}"  backgroundDesign="Solid" class="sapUiMediumMarginBegin sapUiMediumMarginEnd">
+					<columns>
+						<Column id="_IDGenColumn1" mergeDuplicates="true">
+							<Text width="80%"
+                                id="idTxtPrd"
+                                text="Product"
+                            />
+						</Column>
+						<Column id="_IDGenColumn2" demandPopin="true"  mergeDuplicates="true">
+							<Text
+                                id="idTxtPrdDesc"
+                                text="Description"
+                            />
+						</Column>
+					</columns>
+					<items>
+						<ColumnListItem id="_IDGenColumnListItem">
+							<cells>
+								<Text id="_IDGenText" text="{ProductCode}" />
+								<Text id="_IDGenText1" text="{Product}" />
+							</cells>
+						</ColumnListItem>
+					</items>
+				</Table>
+    </Page>
+
+</mvc:View>

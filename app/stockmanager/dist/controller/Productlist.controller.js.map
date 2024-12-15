@@ -1,0 +1,1 @@
+{"version":3,"file":"Productlist.controller.js","names":["sap","ui","define","Controller","extend","onInit"],"sources":["Productlist-dbg.controller.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,CACV,8BACAC,IACA,aAEA,OAAOA,EAAWC,OAAO,sCAAuC,CAC5D,MAAAC,GACA,GACF","ignoreList":[]}
